@@ -6,7 +6,7 @@
 		.menu-toggle.left(@click="toggleSidebar()")
 			i.fa.fa-bars
 
-		search-box.left
+		//- search-box.left
 
 		user-box.right
 

@@ -18,7 +18,7 @@ export default new VueRouter({
 		{ path: "/devices", component: Devices },
 		{ path: "/posts", component: Posts },
 		{ path: "/counter", component: Counter },	
-		{ path: "/profile", component: Profile }
+		{ path: "/profile", component: Profile },
 		// { path: "/users", component: User, meta: { needRole: "admin" } },
 		//{ path: "*", component: NotFound }
 	]
